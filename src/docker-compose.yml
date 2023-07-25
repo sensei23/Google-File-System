@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  gfs_master:
+    container_name: gfs_master
+    # env_file: 
+    #   - config/.env.dev
+    build: .
+    restart: unless-stopped
+    # command: ["./bin/run.sh"]
+    ports:
+      - "5000:5000"
+
+    
+  
+    
