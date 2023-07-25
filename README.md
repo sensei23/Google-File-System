@@ -83,7 +83,7 @@ write <filename> <chunk_index> <start_offset> <end_offset> <data>
 ```
 
 ## Authors:
-- [Shreyash Agrawal](https://github.com/shreyash53)
+- [Shreyash Agrawal](https://github.com/sensei23)
 - [Sarthak Rawat](https://github.com/sarthak-rawat-1101)
 - [Lalit Gupta](https://github.com/devLalitx86Repo)
 - [Gagan Agarwal](https://github.com/GaganAgarwal1813)
